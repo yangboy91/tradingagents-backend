@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+tradingagents
+langchain
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langgraph
+yfinance
+stockstats
+rank-bm25
+python-dateutil
