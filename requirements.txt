@@ -16,3 +16,4 @@ numpy
 pydantic
 requests
 beautifulsoup4
+git+https://github.com/TauricResearch/TradingAgents.git
